@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoAPI01",
+    "\\DemoAPI01\\Controllers",
+    "\\DemoAPI01\\Models",
+    "\\DemoAPI01\\Models\\Domains",
+    "\\DemoAPI01\\Models\\DTOs",
+    "\\DemoAPI01\\Properties",
+    "\\DemoAPI01\\Repositories",
+    "\\DemoAPI01\\Repositories\\Abstracts",
+    "\\DemoAPI01\\Repositories\\Implementations"
+  ],
+  "SelectedNode": "\\DemoAPI01\\Repositories\\Abstracts\\IProductRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

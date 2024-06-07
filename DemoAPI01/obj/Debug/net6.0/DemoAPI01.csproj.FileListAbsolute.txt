@@ -1,0 +1,588 @@
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\appsettings.Development.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\appsettings.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.exe
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.deps.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.runtimeconfig.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.pdb
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Azure.Core.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Azure.Identity.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Humanizer.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.CodeDom.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Memory.Data.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Text.Json.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.AssemblyReference.cache
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.AssemblyInfoInputs.cache
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.AssemblyInfo.cs
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.CoreCompileInputs.cache
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.MvcApplicationPartsAssemblyInfo.cs
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.DemoAPI01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoAPI01.props
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoAPI01.props
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoAPI01.props
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\scopedcss\bundle\DemoAPI01.styles.css
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.CopyComplete
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\refint\DemoAPI01.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.pdb
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.genruntimeconfig.cache
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\ref\DemoAPI01.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\MessagePack.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Build.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Common.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\SEM III\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\appsettings.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.exe
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.deps.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.runtimeconfig.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\DemoAPI01.pdb
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Azure.Core.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Azure.Identity.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Humanizer.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\MessagePack.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Common.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.CodeDom.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Text.Json.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.AssemblyReference.cache
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.AssemblyInfoInputs.cache
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.AssemblyInfo.cs
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.CoreCompileInputs.cache
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.DemoAPI01.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoAPI01.props
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoAPI01.props
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoAPI01.props
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\scopedcss\bundle\DemoAPI01.styles.css
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.csproj.Up2Date
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\refint\DemoAPI01.dll
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.pdb
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\DemoAPI01.genruntimeconfig.cache
+D:\Code\6.1 - API ASP.NET\Codee\Demo\DemoAPI01\DemoAPI01\obj\Debug\net6.0\ref\DemoAPI01.dll
